@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoCurrency20Kotlin</string>
+    <string name="graph_name">Last 30 days</string>
+</resources>
